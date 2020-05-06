@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+
+<head> 
+<title>MY WEB PAGE </title>
+ </head>
+
+<body>
+<H1> This is choclate website </H1>
+<br>
+<br>
+<!-- this is paragraph-->
+<p>In this website you will see the choclate types </p>
+test &nbsp&nbsp&nbsp&nbsp test
+
+
+	<ul>
+		<li>White choclate</li>
+		<li>Dark choclate</li>
+		<li>Red choclate</li>
+	</ul>
+
+
+	<ol>
+		<li>Select the listed one</li>
+		<li>Home delivery available with extra charges</li>
+	</ol>
+</body>
+
+</html>
